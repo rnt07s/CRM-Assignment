@@ -2,7 +2,7 @@
 
 A Customer Relationship Management (CRM) system designed to manage interactions between counselors and students. This system helps track student enquiries, counselor assignments, and manage the overall admission process.
 
-## Features
+
 
 - **Authentication System**
   - User registration for counselors
